@@ -10,3 +10,12 @@ detect2/
 detect3/
 detect4/
 test.yaml
+tranformers.py
+__pycache__/
+alannn.ipynb
+detr.ipynb
+detr.py
+evaluate.py
+out.json
+test.json
+testc.ipynb

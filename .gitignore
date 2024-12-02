@@ -4,3 +4,9 @@ img/
 img.zip
 test.png
 .ipynb_checkpoints/
+annotations/
+detect/
+detect2/
+detect3/
+detect4/
+test.yaml

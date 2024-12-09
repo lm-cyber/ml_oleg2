@@ -19,3 +19,15 @@ evaluate.py
 out.json
 test.json
 testc.ipynb
+annotations_s.zip
+annotations_s/
+confusion_matrix_normalized.png
+dynamic_quantized.onnx
+hw_02_pruning_solution.ipynb
+map_ids.json
+nets/
+prepare-data-for-yolo-Copy1.ipynb
+prepare-data-for-yolo-Copy2.ipynb
+static_quantized.onnx
+utils/
+weights/
